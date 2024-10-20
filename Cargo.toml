@@ -56,7 +56,7 @@ async-stream = "0.3.5"
 async-trait = { version = "0.1.80" }
 crossbeam-channel = { version = "0.5.12" }
 
-syn = { version = "2.0.60", features = ["full"] }
+syn = { version = "2.0.65", features = ["full"] }
 proc-macro2 = { version = "1.0.79" }
 
 tracing = "0.1.40"
